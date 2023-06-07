@@ -9,6 +9,9 @@ I hope you enjoy exploring these dashboards and learn something new along the wa
 
 ## Table of Contents
 * [Requirements](#requirements)
+* [Dashboards](#dashboards)
 
 ### Requirements
 * Operating System: Windows | Linux | MacOS
+
+### Dashboards
