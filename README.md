@@ -15,3 +15,6 @@ I hope you enjoy exploring these dashboards and learn something new along the wa
 * Operating System: Windows | Linux | MacOS
 
 ### Dashboards
+1. Data Science Salaries
+
+![Data Science Salries Dashboard Screenshot](https://drive.google.com/file/d/1zu_lV9Ntg1yDSwFvVKzu2qmOZVkRjs0L/view?usp=drive_link "Data Science Salaries Dashboard")
